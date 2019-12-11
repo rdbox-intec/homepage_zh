@@ -1363,7 +1363,22 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     href: "https://github.com/rdbox-intec/rdbox/wiki",
     className: "button is-primary",
     target: "_blank"
-  }, "\u5F00\u59CB\u5427 >")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+  }, "\u5F00\u59CB\u5427 >")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdboxGARIBAN",
+    target: "_blank"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/GARIBAN_PV_Short.gif",
+    width: "400px"
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "New RDBOX Client APP released!!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdboxGARIBAN/releases/download/v0.1.0/rdboxGARIBAN-Setup-0.1.0.exe",
+    target: "_blank"
+  }, "\uD83D\uDD3DWindows10 | "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdboxGARIBAN/releases/",
+    target: "_blank"
+  }, "\uD83D\uDD3DMacOS | "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdboxGARIBAN/releases/",
+    target: "_blank"
+  }, "\uD83D\uDD3DLinux")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     className: "section section--gradient"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container"
